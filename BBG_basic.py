@@ -21,7 +21,7 @@ for i in range(a):
     if c==1:
         computer_choice= "Bomb"
     elif c==2:
-        computer_choice_="Building"
+        computer_choice="Building"
     else:
         computer_choice="Gun"
     print(f"You Choice: {player_choice} and Computer's Choice: {computer_choice}")
